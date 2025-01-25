@@ -7,7 +7,7 @@ Welcome to the **Number Game**, a fun and interactive game to challenge your min
 ## How to Play
 
 1. **Think of Numbers:**
-   - Choose any numbers as you like (different numbers are preferred). Examples: 1, 2, 3, 4, or even numbers in the range [50-9].
+   - Choose any numbers as you like (different numbers are preferred). Examples: 1, 2, 3, 4, or even numbers in the range [0-9].
    - Avoid choosing the number 99999.
 
 2. **Count the Numbers:**
