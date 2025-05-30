@@ -1,7 +1,7 @@
 # Number Game
 
 Welcome to the **Number Game**, a fun and interactive game to challenge your mind! This game is developed by **Abdul Wasay**. Follow the steps below to play the game and enjoy the magical experience of the computer guessing the number you hid!
-
+Game Link:- https://read-my-mind.streamlit.app/
 ---
 
 ## How to Play
